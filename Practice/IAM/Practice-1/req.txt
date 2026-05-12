@@ -1,0 +1,18 @@
+1. Create IAM Users and Groups
+Goal:
+
+Create 3 IAM users
+Create groups: Admins, Developers, ReadOnly
+Attach policies
+Add users to groups
+
+Practice:
+
+Use variables for usernames
+Use for_each
+Output ARNs
+Concepts:
+resource
+variable
+output
+loops
